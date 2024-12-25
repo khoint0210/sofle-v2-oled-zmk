@@ -30,6 +30,15 @@
         };
     };
 
+    combos {
+        compatible = "zmk,combos";
+
+        mouse_active {
+            bindings = <&to 3>;
+            key-positions = <53 56>;
+        };
+    };
+
     keymap {
         compatible = "zmk,keymap";
 
