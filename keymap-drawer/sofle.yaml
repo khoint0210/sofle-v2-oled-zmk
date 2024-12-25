@@ -244,3 +244,6 @@ layers:
   - ''
   - ''
   - ''
+combos:
+- p: [53, 56]
+  k: {t: adjust, h: toggle}
