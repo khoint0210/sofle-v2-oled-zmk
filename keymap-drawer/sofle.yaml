@@ -143,9 +143,9 @@ layers:
   - RGB SAD
   - RGB SAI
   - RGB EFF
-  - ''
-  - ''
-  - ''
+  - '&mkp LCLK'
+  - '&msc SCRL_UP'
+  - '&mkp RCLK'
   - ''
   - ''
   - ''
@@ -155,10 +155,10 @@ layers:
   - ''
   - ''
   - ''
-  - ''
-  - ''
-  - ''
-  - ''
+  - '&mmv MOVE_LEFT'
+  - '&mmv MOVE_DOWN'
+  - '&mmv MOVE_UP'
+  - '&mmv MOVE_RIGHT'
   - ''
   - ''
   - ''
@@ -170,7 +170,7 @@ layers:
   - RGB TOG
   - ''
   - ''
-  - ''
+  - '&msc SCRL_DOWN'
   - ''
   - ''
   - ''
