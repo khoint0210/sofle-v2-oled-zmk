@@ -34,7 +34,7 @@
         compatible = "zmk,combos";
 
         mouse_active {
-            bindings = <&to 3>;
+            bindings = <&tog 3>;
             key-positions = <53 56>;
         };
     };
